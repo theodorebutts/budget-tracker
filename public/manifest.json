@@ -1,0 +1,50 @@
+{
+    "name": "Budget-Tracker",
+    "short_name": "Budgetly",
+    "icons": [
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-384x384.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-192x192.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-152x152.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-144x144.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-128x128.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-96x96.png",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-",
+            "sizes": "icons/icon-72x72.png",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#bdbdbd",
+    "start_url": "/",
+    "display": "standalone"
+}
